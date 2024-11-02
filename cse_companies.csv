@@ -1,0 +1,284 @@
+﻿Ticker Symbol,Company Name,Last Price,7D Return,1Y Return,Market Cap,Analysts Target,Valuation,Growth,Div Yield,Industry
+EXPO.N0000,Expolanka Holdings,LK₨150.50,0,0.132,LK₨294.2b,n/a,PS1.2x,n/a,2.30%,Transportation
+JKH.N0000,John Keells Holdings,LK₨193.25,-0.004,0.157,LK₨289.6b,LK₨252.97,PE25.8x,E55.5%,0.80%,Capital Goods
+CTC.N0000,Ceylon Tobacco,"LK₨1,235.00",0.004,0.345,LK₨231.3b,"LK₨1,256.73",PE8.1x,E7.9%,12.00%,"Food, Beverage & Tobacco"
+LOLC.N0000,LOLC Holdings,LK₨439.00,-0.005,-0.11,LK₨208.6b,n/a,PE7x,n/a,0%,Diversified Financials
+LOFC.N0000,LOLC Finance,LK₨6.10,0,0.017,LK₨201.8b,n/a,PE9.4x,n/a,n/a,Diversified Financials
+SLTL.N0000,Sri Lanka Telecom,LK₨71.40,0.004,-0.286,LK₨128.9b,n/a,PS1.2x,n/a,0%,Telecom
+COMB.N0000,Commercial Bank of Ceylon,LK₨97.00,-0.024,0.067,LK₨128.3b,LK₨132.45,PB0.6x,E15.2%,4.60%,Banks
+DIST.N0000,Distilleries Company of Sri Lanka,LK₨26.00,-0.019,0.14,LK₨119.6b,LK₨32.30,PE8.4x,S19.8%,10.80%,"Food, Beverage & Tobacco"
+HNB.N0000,Hatton National Bank,LK₨191.25,-0.014,0.048,LK₨104.6b,LK₨250.77,PB0.5x,S25.0%,2.00%,Banks
+CARG.N0000,Cargills (Ceylon),LK₨385.00,0,0.279,LK₨99.2b,LK₨416.50,PE16.9x,S11.1%,3.90%,Consumer Retailing
+MELS.N0000,Melstacorp,LK₨83.00,-0.012,0.067,LK₨96.7b,LK₨115.90,PE10.4x,S17.4%,10.00%,"Food, Beverage & Tobacco"
+SAMP.N0000,Sampath Bank,LK₨76.60,-0.013,-0.005,LK₨89.8b,LK₨127.80,PB0.6x,S4.9%,7.60%,Banks
+LION.N0000,Lion Brewery (Ceylon),"LK₨1,023.75",-0.049,0.466,LK₨81.9b,"LK₨1,350.00",PE9.7x,S27.9%,4.20%,"Food, Beverage & Tobacco"
+BIL.N0000,Browns Investments,LK₨5.60,0,-0.164,LK₨80.5b,n/a,PE7.4x,n/a,0%,"Food, Beverage & Tobacco"
+DIAL.N0000,Dialog Axiata,LK₨9.60,0.043,-0.143,LK₨79.2b,LK₨14.30,PE5.6x,E26.7%,14.00%,Telecom
+HAYL.N0000,Hayleys,LK₨101.50,0.012,0.169,LK₨76.1b,n/a,PE11.1x,n/a,5.30%,Capital Goods
+LIOC.N0000,Lanka IOC,LK₨118.25,-0.019,-0.067,LK₨63.0b,LK₨149.30,PE4.1x,S6.1%,4.20%,Energy
+CTHR.N0000,C T Holdings,LK₨295.00,-0.017,0.41,LK₨59.4b,n/a,PE13.6x,n/a,4.10%,Consumer Retailing
+CARS.N0000,Carson Cumberbatch,LK₨290.00,0,-0.008,LK₨57.0b,n/a,PE5.3x,n/a,2.30%,"Food, Beverage & Tobacco"
+NEST.N0000,Nestlé Lanka,"LK₨1,120.25",0,0.216,LK₨60.2b,"LK₨1,540.00",PE5.9x,E29.4%,6.70%,"Food, Beverage & Tobacco"
+VONE.N0000,Vallibel One,LK₨48.00,0,-0.061,LK₨54.7b,n/a,PE5.6x,n/a,4.20%,Capital Goods
+CCS.N0000,Ceylon Cold Stores,LK₨57.50,0.018,0.286,LK₨54.6b,LK₨75.63,PE15.9x,S13.0%,4.00%,"Food, Beverage & Tobacco"
+CINS.N0000,Ceylinco Insurance,"LK₨2,400.25",0,-0.072,LK₨53.9b,n/a,PE5.5x,n/a,2.00%,Insurance
+SPEN.N0000,Aitken Spence,LK₨125.00,-0.002,-0.165,LK₨50.7b,n/a,PE17.3x,n/a,3.40%,Capital Goods
+HHL.N0000,Hemas Holdings,LK₨81.50,0,0.101,LK₨48.6b,LK₨101.17,PE8x,E4.5%,0.042,Capital Goods
+NTB.N0000,Nations Trust Bank,LK₨124.75,-0.002,0.291,LK₨40.4b,LK₨180.52,PB0.6x,S5.3%,0.02,Banks
+BREW.N0000,Ceylon Beverage Holdings,"LK₨1,900.00",0,0.583,LK₨39.9b,n/a,PE10.1x,n/a,0.039,"Food, Beverage & Tobacco"
+BUKI.N0000,Bukit Darah,LK₨390.75,0,-0.058,LK₨39.9b,n/a,PE4.8x,n/a,0.01,"Food, Beverage & Tobacco"
+RICH.N0000,Richard Pieris,LK₨19.50,0.01,-0.181,LK₨39.7b,n/a,PE69.5x,n/a,0.051,Capital Goods
+LFIN.N0000,LB Finance,LK₨66.00,-0.012,-0.028,LK₨36.6b,LK₨92.80,PE3.7x,n/a,0.087,Diversified Financials
+RCL.N0000,Royal Ceramics Lanka,LK₨32.60,0.009,0.035,LK₨36.1b,LK₨39.00,PE5.1x,S8.1%,0.089,Capital Goods
+SFCL.N0000,Senkadagala Finance,LK₨375.25,-0.125,-0.01,LK₨32.4b,n/a,PE23.7x,n/a,0.005,Diversified Financials
+DFCC.N0000,DFCC Bank,LK₨73.00,0,-0.048,LK₨31.6b,n/a,PB0.4x,n/a,0.04,Banks
+NDB.N0000,National Development Bank,LK₨73.00,0.01,0.007,LK₨30.3b,n/a,PB0.4x,n/a,0.026,Banks
+SUN.N0000,Sunshine Holdings,LK₨61.50,-0.008,0.194,LK₨30.3b,LK₨88.60,PE6.8x,S10.0%,0.065,"Food, Beverage & Tobacco"
+TJL.N0000,Teejay Lanka,LK₨40.40,0.01,0.206,LK₨29.0b,LK₨49.95,PE26.1x,E51.6%,0.019,Consumer Durables
+LLUB.N0000,Chevron Lubricants Lanka,LK₨120.25,-0.014,0.279,LK₨28.9b,LK₨127.45,PE7.5x,E12.1%,0.116,Materials
+GLAS.N0000,PGP Glass Ceylon,LK₨29.40,0,0.185,LK₨27.9b,LK₨34.00,PE9.5x,S16.6%,0.053,Materials
+ASIR.N0000,Asiri Hospital Holdings,LK₨24.20,0.013,-0.058,LK₨27.5b,n/a,PE9.6x,n/a,0,Healthcare
+WIND.N0000,WindForce,LK₨20.10,0.005,0.169,LK₨27.2b,LK₨24.00,PE17.5x,E28.6%,0,Utilities
+SEYB.N0000,Seylan Bank,LK₨47.00,-0.021,0.033,LK₨26.4b,n/a,PB0.5x,n/a,0.021,Banks
+UAL.N0000,Union Assurance,LK₨44.70,-0.035,0.205,LK₨26.3b,n/a,PE6.9x,n/a,0.196,Insurance
+PLC.N0000,People's Leasing & Finance,LK₨12.20,-0.008,0.17,LK₨26.3b,n/a,PE6.6x,n/a,0.115,Diversified Financials
+AHPL.N0000,Asian Hotels and Properties,LK₨57.40,-0.009,0.256,LK₨25.4b,LK₨86.00,PS2.4x,S34.7%,0,Consumer Services
+CFIN.N0000,Central Finance,LK₨110.00,0,0.138,LK₨25.0b,n/a,PE3.2x,n/a,0.041,Diversified Financials
+CIC.N0000,CIC Holdings,LK₨70.00,0,-0.013,LK₨25.0b,n/a,PE2.7x,n/a,0.036,Materials
+KHL.N0000,John Keells Hotels,LK₨16.80,-0.006,-0.233,LK₨24.5b,LK₨26.50,PB0.8x,S30.3%,0,Consumer Services
+BRWN.N0000,Brown,LK₨114.25,-0.004,-0.088,LK₨24.3b,n/a,PB0.4x,n/a,0,Capital Goods
+AAIC.N0000,Softlogic Life Insurance,LK₨64.40,-0.002,-0.154,LK₨24.2b,n/a,PE7.6x,n/a,5.80%,Insurance
+HAYC.N0000,Haycarb,LK₨79.50,0.003,0.103,LK₨23.6b,LK₨106.00,PE6.3x,n/a,4.50%,Materials
+LHCL.N0000,Lanka Hospitals,LK₨105.00,-0.019,-0.05,LK₨23.5b,LK₨107.00,PE15.9x,S11.8%,2.90%,Healthcare
+AEL.N0000,Access Engineering,LK₨22.40,-0.026,0.251,LK₨22.4b,LK₨31.20,PE3.4x,S41.1%,0%,Capital Goods
+DIPD.N0000,Dipped Products,LK₨35.60,0.014,0.06,LK₨21.3b,n/a,PE4.8x,n/a,5.60%,Materials
+AHUN.N0000,Aitken Spence Hotel Holdings,LK₨63.00,-0.016,-0.1,LK₨21.2b,LK₨90.00,PE18.8x,S20.9%,0%,Consumer Services
+OSEA.N0000,Overseas Realty (Ceylon),LK₨17.00,-0.023,0.03,LK₨21.1b,n/a,PE5.5x,n/a,7.40%,Real Estate Management and Development
+CTEA.N0000,Dilmah Ceylon Tea,"LK₨1,000.00",0,-0.057,LK₨20.7b,n/a,PE27.9x,n/a,5.00%,"Food, Beverage & Tobacco"
+TKYO.N0000,Tokyo Cement Company (Lanka),LK₨49.50,0.01,-0.048,LK₨20.7b,LK₨76.00,PE9x,S16.7%,2.80%,Materials
+HUNA.N0000,Hunas Holdings,LK₨24.40,0.017,-0.119,LK₨20.7b,n/a,PS26.2x,n/a,0%,Consumer Services
+PALM.N0000,Palm Garden Hotels,LK₨42.00,-0.021,-0.041,LK₨20.0b,n/a,PS2.9x,n/a,n/a,Consumer Services
+ACL.N0000,ACL Cables,LK₨83.40,0.005,0.016,LK₨20.0b,n/a,PE6.9x,n/a,1.50%,Capital Goods
+EDEN.N0000,Eden Hotel Lanka,LK₨12.50,0.008,-0.081,LK₨19.8b,n/a,PS2.8x,n/a,0%,Consumer Services
+MGT.N0000,Hayleys Fabric,LK₨45.90,0,0.706,LK₨19.1b,LK₨65.00,PE8x,S17.6%,5.40%,Consumer Durables
+SINS.N0000,Singer (Sri Lanka),LK₨15.50,0.026,0,LK₨18.1b,n/a,PB1.6x,n/a,0%,Retail
+WATA.N0000,Watawala Plantations,LK₨88.00,0,0.153,LK₨17.9b,n/a,PE7.6x,n/a,17.00%,"Food, Beverage & Tobacco"
+CALT.N0000,Capital Alliance,LK₨45.40,0.025,-0.17,LK₨15.0b,n/a,PE1.1x,n/a,46.30%,Diversified Financials
+FCT.N0000,First Capital Treasuries,LK₨23.70,0.009,-0.416,LK₨14.6b,n/a,PE1.3x,n/a,38.00%,Diversified Financials
+LWL.N0000,Lanka Walltiles,LK₨50.70,0.01,-0.023,LK₨13.8b,n/a,PE5.1x,n/a,9.30%,Capital Goods
+CDB.N0000,Citizens Development Business Finance,LK₨210.50,0,0.053,LK₨13.8b,n/a,PE5.9x,n/a,3.30%,Diversified Financials
+TILE.N0000,Lanka Tiles,LK₨50.00,0,0.01,LK₨13.3b,n/a,PE4.6x,n/a,11.40%,Capital Goods
+MAL.N0000,Malwatte Valley Plantations,LK₨58.80,-0.02,-0.028,LK₨12.7b,n/a,PS1.3x,n/a,0.30%,"Food, Beverage & Tobacco"
+COCR.N0000,Commercial Credit and Finance,LK₨39.30,0.023,-0.005,LK₨12.5b,n/a,PE2.9x,n/a,10.20%,Diversified Financials
+LGL.X0000,LAUGFS Gas,LK₨19.00,0,-0.14,LK₨12.4b,n/a,PB2.5x,n/a,0%,Energy
+TAP.N0000,Ambeon Capital,LK₨12.20,-0.024,24.50%,LK₨12.2b,n/a,PE6.9x,n/a,0%,Software
+LAMB.N0000,Kotmale Holdings,LK₨389.50,0,3.90%,LK₨12.2b,n/a,PE19x,n/a,0%,"Food, Beverage & Tobacco"
+ABL.N0000,Amãna Bank,LK₨21.40,-0.009,-10.80%,LK₨11.8b,n/a,PB0.5x,n/a,0%,Banks
+VLL.N0000,Vidullanka,LK₨12.80,-0.008,103.20%,LK₨11.8b,n/a,PE9.5x,n/a,4.70%,Utilities
+LMF.N0000,Lanka Milk Foods (CWE),LK₨28.40,-0.004,81.50%,LK₨11.4b,n/a,PE5x,n/a,2.20%,"Food, Beverage & Tobacco"
+CFVF.N0000,First Capital Holdings,LK₨27.70,0.018,-37.80%,LK₨11.2b,n/a,PE1.3x,n/a,62.30%,Diversified Financials
+SHL.N0000,Softlogic Holdings,LK₨9.00,0.034,n/a,LK₨10.7b,n/a,PE-0.6x,n/a,0%,Capital Goods
+GRAN.N0000,Ceylon Grain Elevators,LK₨174.00,-0.004,64.90%,LK₨10.4b,n/a,PE3.3x,n/a,10.30%,"Food, Beverage & Tobacco"
+UBC.N0000,Union Bank of Colombo,LK₨9.50,0.022,-11.20%,LK₨10.3b,n/a,PB0.5x,n/a,0%,Banks
+VFIN.N0000,Vallibel Finance,LK₨41.50,0,4.30%,LK₨9.8b,n/a,PE4.8x,n/a,4.80%,Diversified Financials
+JAT.N0000,JAT Holdings,LK₨19.00,-0.045,11.80%,LK₨9.7b,n/a,PE9.5x,n/a,2.60%,Materials
+PABC.N0000,Pan Asia Banking,LK₨20.60,-0.005,28.00%,LK₨9.1b,n/a,PB0.4x,n/a,1.20%,Banks
+HNBF.N0000,HNB Finance,LK₨5.20,0.04,-14.80%,LK₨9.0b,n/a,PE14.4x,n/a,0%,Diversified Financials
+HASU.N0000,HNB Assurance,LK₨58.10,0.002,2.80%,LK₨8.7b,n/a,PE4.8x,n/a,6.70%,Insurance
+GUAR.N0000,Ceylon Guardian Investment Trust,LK₨96.40,-0.031,-1.10%,LK₨8.5b,n/a,PE3x,n/a,0%,Diversified Financials
+HARI.N0000,Harischandra Mills,"LK₨4,400.00",0,10.00%,LK₨8.4b,n/a,PE37.3x,n/a,1.40%,"Food, Beverage & Tobacco"
+JINS.N0000,Janashakthi Insurance,LK₨36.80,0.008,-0.50%,LK₨8.3b,n/a,PE2x,n/a,36.00%,Insurance
+NAMU.N0000,Namunukula Plantations,LK₨339.50,-0.003,-12.90%,LK₨8.1b,n/a,PE4.2x,n/a,4.10%,"Food, Beverage & Tobacco"
+GHLL.N0000,Galadari Hotels (Lanka),LK₨16.00,0.006,3.20%,LK₨8.0b,n/a,PE78x,n/a,n/a,Consumer Services
+TRAN.N0000,Trans Asia Hotels,LK₨40.00,-0.024,-20.00%,LK₨8.0b,n/a,PE46.2x,n/a,0%,Consumer Services
+MERC.N0000,Mercantile Investments and Finance,"LK₨2,600.00",0,n/a,LK₨7.8b,n/a,PE14.1x,n/a,0.80%,Diversified Financials
+PLR.N0000,Prime Lands Residencies,LK₨7.90,-0.013,-8.10%,LK₨7.4b,n/a,PE6.6x,n/a,7.60%,Real Estate Management and Development
+HELA.N0000,Hela Apparel Holdings,LK₨5.60,0.018,-26.30%,LK₨7.4b,n/a,PB1.7x,n/a,n/a,Consumer Durables
+CBNK.N0000,Cargills Bank,LK₨7.80,0.013,n/a,LK₨7.4b,n/a,PB0.6x,n/a,n/a,Banks
+ELPL.N0000,Elpitiya Plantations,LK₨99.80,-0.007,6.60%,LK₨7.3b,n/a,PE4.6x,n/a,5.00%,"Food, Beverage & Tobacco"
+TAFL.N0000,Three Acre Farms,LK₨306.00,0.007,83.20%,LK₨7.2b,n/a,PE2.5x,n/a,10.50%,"Food, Beverage & Tobacco"
+LGIL.N0000,LOLC General Insurance,LK₨6.00,0.017,-16.70%,LK₨7.2b,n/a,PE7.6x,n/a,n/a,Insurance
+CFLB.N0000,Colombo Fort Land & Building,LK₨29.90,-0.003,-2.00%,LK₨7.2b,n/a,PB1.5x,n/a,0.80%,Capital Goods
+UML.N0000,United Motors Lanka,LK₨71.00,0.004,20.10%,LK₨7.2b,n/a,PB0.5x,n/a,2.10%,Retail
+ALUM.N0000,Alumex,LK₨11.80,0.044,24.20%,LK₨7.1b,LK₨13.80,PE38x,S12.3%,0%,Materials
+SHAL.N0000,Shalimar (Malay),"LK₨1,284.00",0,34.20%,LK₨6.9b,n/a,PS3730.3x,n/a,0%,Diversified Financials
+KCAB.N0000,Kelani Cables,LK₨300.00,0.014,-7.00%,LK₨6.5b,n/a,PE4x,n/a,2.20%,Capital Goods
+SCAP.N0000,Softlogic Capital,LK₨6.50,-0.03,-42.00%,LK₨6.4b,n/a,PB4.3x,n/a,0%,Insurance
+AMSL.N0000,Asiri Surgical Hospital,LK₨12.00,-0.008,-6.30%,LK₨6.3b,n/a,PE10.7x,n/a,0%,Healthcare
+TPL.N0000,Talawakelle Tea Estates,LK₨132.25,-0.008,4.80%,LK₨6.3b,n/a,PE3.8x,n/a,23.70%,"Food, Beverage & Tobacco"
+VPEL.N0000,Vallibel Power Erathna,LK₨8.30,-0.012,20.30%,LK₨6.2b,n/a,PE9.2x,n/a,42.20%,Utilities
+EBCR.N0000,E.B. Creasy,LK₨24.00,0,-2.00%,LK₨6.1b,n/a,PE23x,n/a,6.30%,Capital Goods
+RIL.N0000,R I L Property,LK₨7.60,-0.013,11.80%,LK₨6.1b,n/a,PE7.3x,n/a,2.60%,Retail
+TYRE.N0000,Kelani Tyres,LK₨75.10,-0.04,10.10%,LK₨6.0b,n/a,PE6.4x,n/a,6.70%,Automobiles
+INDO.N0000,Indo-Malay,"LK₨1,316.00",0,-0.80%,LK₨6.3b,n/a,PE1588.9x,n/a,0%,Diversified Financials
+KHC.N0000,Kandy Hotels (1938),LK₨7.80,-0.037,-14.30%,LK₨5.9b,n/a,PS4.8x,n/a,0%,Consumer Services
+SIRA.N0000,Sierra Cables,LK₨10.80,0,-12.20%,LK₨5.8b,n/a,PE7.6x,n/a,0%,Capital Goods
+CRL.N0000,Softlogic Finance,LK₨5.90,0.035,-26.30%,LK₨5.7b,n/a,PB2x,n/a,0%,Diversified Financials
+HPL.N0000,Hatton Plantations,LK₨23.70,-0.004,-16.00%,LK₨5.6b,n/a,PE5.6x,n/a,16.90%,"Food, Beverage & Tobacco"
+SHOT.N0000,Serendib Hotels,LK₨13.90,-0.041,19.80%,LK₨5.5b,LK₨20.00,PE14.6x,S17.2%,0%,Consumer Services
+BPPL.N0000,BPPL Holdings,LK₨18.00,-0.027,-18.20%,LK₨5.5b,n/a,PB1.4x,n/a,2.00%,Household
+NHL.N0000,Nawaloka Hospitals,LK₨3.90,0,n/a,LK₨5.5b,n/a,PE15.8x,n/a,0%,Healthcare
+DIMO.N0000,Diesel & Motor Engineering,LK₨595.00,-0.057,13.30%,LK₨5.5b,n/a,PE127.9x,n/a,0.80%,Retail
+AGAL.N0000,Agalawatte Plantations,LK₨33.60,0.009,-0.106,LK₨5.3b,n/a,PE5.3x,n/a,0%,"Food, Beverage & Tobacco"
+GREG.N0000,Ambeon Holdings,LK₨37.20,-0.041,0.008,LK₨5.2b,n/a,PE2x,n/a,9.10%,Consumer Durables
+KVAL.N0000,Kelani Valley Plantations,LK₨73.30,-0.011,-0.153,LK₨5.0b,n/a,PE4.2x,n/a,13.60%,"Food, Beverage & Tobacco"
+CINV.N0000,Ceylon Investment,LK₨49.90,0.029,-0.091,LK₨5.0b,n/a,PE3.1x,n/a,0%,Diversified Financials
+SDB.N0000,SANASA Development Bank,LK₨30.20,-0.01,-0.152,LK₨5.0b,n/a,PB0.3x,n/a,0%,Banks
+SERV.N0000,Kingsbury,LK₨10.10,0,-0.029,LK₨4.9b,n/a,PE18.5x,n/a,0%,Consumer Services
+JETS.N0000,Jetwing Symphony,LK₨8.00,0.013,-0.101,LK₨4.8b,n/a,PE48x,n/a,n/a,Consumer Services
+SEMB.N0000,SMB Finance,LK₨0.60,0,-0.333,LK₨4.8b,n/a,PE51.5x,n/a,0%,Diversified Financials
+NEH.N0000,Nuwara Eliya Hotels,"LK₨2,168.50",0,0.446,LK₨4.7b,n/a,PE8.2x,n/a,1.70%,Consumer Services
+BOGA.N0000,Bogala Graphite Lanka,LK₨49.00,-0.049,-0.164,LK₨4.6b,n/a,PE27.5x,n/a,0%,Materials
+REXP.N0000,Richard Pieris Exports,LK₨415.00,-0.024,-0.303,LK₨4.6b,n/a,PE72.2x,n/a,2.90%,Materials
+CALF.N0000,Dialog Finance,LK₨39.40,-0.015,-0.375,LK₨4.6b,n/a,PS6.6x,n/a,n/a,Diversified Financials
+CHL.X0000,Ceylon Hospitals,LK₨92.00,0.007,-0.186,LK₨4.6b,n/a,PE8.9x,n/a,2.50%,Healthcare
+COOP.N0000,Co-operative Insurance,LK₨2.70,0,-0.229,LK₨4.5b,n/a,PB0.7x,n/a,7.40%,Insurance
+GOOD.N0000,Good Hope,"LK₨1,200.50",0,-0.23,LK₨4.7b,n/a,PE1420.2x,n/a,0%,Diversified Financials
+PACK.N0000,Ex-pack Corrugated Cartons,LK₨13.20,-0.008,-0.114,LK₨4.4b,LK₨19.50,PE7.6x,S17.9%,5.10%,Materials
+SELI.N0000,Selinsing,LK₨808.50,0,0.45,LK₨4.6b,n/a,PE333x,n/a,0%,Diversified Financials
+PINS.N0000,People's Insurance,LK₨21.10,-0.032,-0.204,LK₨4.3b,n/a,PE10.2x,n/a,0%,Insurance
+RCH.N0000,Renuka Hotels,LK₨106.00,0,0.17,LK₨4.3b,n/a,PE15.4x,n/a,0.50%,Consumer Services
+KFP.N0000,Keells Food Products,LK₨160.25,0,-0.032,LK₨4.1b,LK₨195.00,PB2.2x,n/a,0%,"Food, Beverage & Tobacco"
+JKL.N0000,John Keells,LK₨67.00,-0.02,-0.016,LK₨4.1b,n/a,PE27x,n/a,4.30%,Retail
+LCEY.N0000,Lankem Ceylon,LK₨78.80,-0.033,-0.065,LK₨4.1b,n/a,PE20.7x,n/a,12.70%,Capital Goods
+CLND.N0000,Colombo Land and Development,LK₨19.50,-0.025,0.01,LK₨3.9b,n/a,PE10.9x,n/a,n/a,Real Estate Management and Development
+CARE.N0000,Printcare,LK₨43.40,-0.014,-0.189,LK₨3.7b,n/a,PE13.1x,n/a,4.60%,Commercial Services
+AGPL.N0000,Agarapatana Plantations,LK₨7.40,-0.026,n/a,LK₨3.7b,n/a,PE6.6x,n/a,n/a,"Food, Beverage & Tobacco"
+AGST.N0000,AgStar,LK₨7.50,0,-31.80%,LK₨3.7b,n/a,PE22.1x,n/a,0%,Materials
+LPL.N0000,LAUGFS Power,LK₨9.70,-0.03,1.00%,LK₨3.6b,n/a,PE72.2x,n/a,0%,Utilities
+DPL.N0000,Dankotuwa Porcelain,LK₨22.00,-0.013,-17.00%,LK₨3.6b,n/a,PE9.7x,n/a,0%,Consumer Durables
+ODEL.N0000,Odel,LK₨12.90,0,-22.30%,LK₨3.5b,n/a,PE-1x,n/a,0%,Retail
+HBS.N0000,hSenid Business Solutions,LK₨12.50,-0.016,-7.40%,LK₨3.5b,LK₨16.00,PS2.1x,S20.4%,2.80%,Software
+ALLI.N0000,Alliance Finance,LK₨100.00,0,12.60%,LK₨3.4b,n/a,PE3.5x,n/a,8.40%,Diversified Financials
+CWM.N0000,C. W. Mackie,LK₨93.60,-0.026,-18.40%,LK₨3.4b,n/a,PE8.1x,n/a,8.50%,Retail
+DOCK.N0000,Colombo Dockyard,LK₨46.00,-0.023,-27.60%,LK₨3.3b,n/a,PB1.1x,n/a,0%,Capital Goods
+CHOT.N0000,Ceylon Hotels,LK₨18.30,-0.042,-12.40%,LK₨3.3b,n/a,PS2.4x,n/a,n/a,Consumer Services
+SFIN.N0000,Singer Finance (Lanka),LK₨16.00,-0.018,8.10%,LK₨3.2b,n/a,PE7.9x,n/a,5.00%,Diversified Financials
+HUNT.N0000,Hunter,LK₨619.75,0.003,-9.10%,LK₨3.2b,n/a,PB0.3x,n/a,0.80%,Retail
+BOPL.N0000,Bogawantalawa Tea Estates,LK₨37.20,0.011,-27.80%,LK₨3.1b,n/a,PE5.9x,n/a,4.00%,"Food, Beverage & Tobacco"
+REEF.N0000,Citrus Leisure,LK₨4.50,-0.022,-35.70%,LK₨2.9b,n/a,PS1.3x,n/a,n/a,Consumer Services
+BFL.N0000,Bairaha Farms,LK₨165.00,-0.022,7.50%,LK₨2.9b,n/a,PE6.7x,n/a,3.00%,"Food, Beverage & Tobacco"
+ASHO.N0000,Lanka Ashok Leyland,LK₨799.50,0.004,0.30%,LK₨2.9b,n/a,PE3.4x,n/a,1.90%,Capital Goods
+PARQ.N0000,Swisstek (Ceylon),LK₨20.90,0.045,16.10%,LK₨2.9b,n/a,PB1.2x,n/a,3.80%,Materials
+KGAL.N0000,Kegalle Plantations,LK₨111.75,-0.002,-16.40%,LK₨2.8b,n/a,PB0.6x,n/a,3.10%,"Food, Beverage & Tobacco"
+MBSL.N0000,Merchant Bank of Sri Lanka & Finance,LK₨5.20,-0.055,-1.90%,LK₨2.7b,n/a,PE19.4x,n/a,0%,Diversified Financials
+CIND.N0000,Central Industries,LK₨112.50,0,10.30%,LK₨2.7b,n/a,PE4.2x,n/a,5.30%,Capital Goods
+RHTL.N0000,Fortress Resorts,LK₨24.00,0.034,25.70%,LK₨2.7b,LK₨30.00,PE12.5x,S10.6%,0%,Consumer Services
+LVEF.N0000,LVL Energy Fund,LK₨4.50,0.023,-30.80%,LK₨2.6b,n/a,PE9.9x,n/a,0%,Utilities
+TAJ.N0000,TAL Lanka Hotels,LK₨18.20,0.011,-11.20%,LK₨2.5b,n/a,PE-11.8x,n/a,n/a,Consumer Services
+PAP.N0000,Panasian Power,LK₨4.00,0,14.30%,LK₨2.5b,n/a,PE34.7x,n/a,5.00%,Utilities
+RENU.N0000,Renuka City Hotels,LK₨350.00,-0.028,-0.086,LK₨2.5b,n/a,PS12x,n/a,0.60%,Consumer Services
+AMF.N0000,Associated Motor Finance,LK₨21.60,-0.018,1.057,LK₨2.4b,n/a,PE6.9x,n/a,0%,Diversified Financials
+RHL.N0000,Renuka Holdings,LK₨13.10,-0.03,-0.186,LK₨2.4b,n/a,PB0.3x,n/a,0%,Capital Goods
+ATL.N0000,Amãna Takaful,LK₨11.50,0.036,-0.034,LK₨2.3b,n/a,PE11.3x,n/a,n/a,Insurance
+SOY.N0000,Convenience Foods (Lanka),LK₨850.00,0.007,-0.177,LK₨2.3b,n/a,PE9.6x,n/a,0.60%,"Food, Beverage & Tobacco"
+CITH.N0000,Hikkaduwa Beach Resort,LK₨4.30,0.049,-0.173,LK₨2.3b,n/a,PS1.4x,n/a,0%,Consumer Services
+KZOO.N0000,Ceylon Land & Equity,LK₨7.70,0.055,-0.128,LK₨2.3b,n/a,PE6.9x,n/a,0%,Diversified Financials
+SHAW.N0000,Lee Hedges,LK₨88.90,0,0.114,LK₨2.3b,n/a,PE12x,n/a,1.10%,Real Estate Management and Development
+CSD.N0000,Seylan Developments,LK₨16.20,-0.024,0.2,LK₨2.3b,n/a,PE6.6x,n/a,6.20%,Real Estate Management and Development
+ONAL.N0000,On'ally Holdings,LK₨24.30,0.013,-0.187,LK₨2.3b,n/a,PE4.5x,n/a,8.20%,Real Estate Management and Development
+ASCO.N0000,Lanka Realty Investments,LK₨10.60,-0.028,-0.191,LK₨2.2b,n/a,PE12.4x,n/a,n/a,Real Estate Management and Development
+SWAD.N0000,Swadeshi Industrial Works,"LK₨15,003.50",0,0,LK₨2.2b,n/a,PE13.1x,n/a,0.01%,Household
+COCO.N0000,Renuka Foods,LK₨11.90,-0.008,-0.457,LK₨2.2b,n/a,PB0.5x,n/a,3.40%,"Food, Beverage & Tobacco"
+STAF.N0000,Dolphin Hotels,LK₨34.80,-0.041,0.088,LK₨2.2b,LK₨50.00,PE6.9x,S21.3%,0%,Consumer Services
+BALA.N0000,Balangoda Plantations,LK₨45.30,-0.046,-0.361,LK₨2.1b,n/a,PE8.9x,n/a,0%,"Food, Beverage & Tobacco"
+CONN.N0000,Hayleys Leisure,LK₨19.50,-0.015,-0.156,LK₨2.1b,LK₨30.00,PB1.6x,S29.8%,0%,Consumer Services
+CSF.N0000,Nation Lanka Finance,LK₨0.30,0,-0.4,LK₨2.1b,n/a,PS9.3x,n/a,n/a,Diversified Financials
+HDFC.N0000,Housing Development Finance Corporation Bank of Sri Lanka,LK₨32.10,0,-0.093,LK₨2.1b,n/a,PE1.3x,n/a,0%,Diversified Financials
+CITW.N0000,Waskaduwa Beach Resort,LK₨2.20,0,-0.267,LK₨2.1b,n/a,PS1.9x,n/a,n/a,Consumer Services
+PMB.N0000,People's Merchant Finance,LK₨5.00,0.042,-0.074,LK₨2.0b,n/a,PE19.7x,n/a,n/a,Diversified Financials
+SDF.N0000,Sarvodaya Development Finance,LK₨13.40,-0.007,0.081,LK₨2.0b,n/a,PE8x,n/a,5.60%,Diversified Financials
+GSF.N0000,Prime Finance,LK₨19.70,0,0.615,LK₨2.4b,n/a,PE17.4x,n/a,n/a,Diversified Financials
+KOTA.N0000,Kotagala Plantations,LK₨5.80,0,-0.266,LK₨2.0b,n/a,PB1.3x,n/a,0%,"Food, Beverage & Tobacco"
+CTLD.N0000,CT Land Development,LK₨24.10,0.004,-0.036,LK₨2.0b,n/a,PE2.7x,n/a,0%,Real Estate Management and Development
+RWSL.N0000,Raigam Wayamba Salterns,LK₨6.90,0,-10.40%,LK₨1.9b,n/a,PE7.1x,n/a,2.90%,"Food, Beverage & Tobacco"
+LHL.N0000,Lighthouse Hotel,LK₨42.20,0.005,46.00%,LK₨1.9b,LK₨55.00,PE11x,S13.2%,7.10%,Consumer Services
+RAL.N0000,Renuka Agri Foods,LK₨3.40,0.03,-36.00%,LK₨1.9b,n/a,PB0.6x,n/a,0%,"Food, Beverage & Tobacco"
+HPWR.N0000,Resus Energy,LK₨22.50,-0.009,45.20%,LK₨1.9b,n/a,PE5.2x,n/a,11.10%,Utilities
+UBF.N0000,UB Finance,LK₨0.60,-0.143,n/a,LK₨1.9b,n/a,PE1295.4x,n/a,n/a,Diversified Financials
+LUMX.N0000,Luminex,LK₨7.00,0.029,-1.40%,LK₨1.9b,n/a,PE47.3x,n/a,3.60%,Capital Goods
+LDEV.N0000,Lankem Developments,LK₨15.40,-0.013,-45.40%,LK₨1.8b,n/a,PE8.1x,n/a,n/a,"Food, Beverage & Tobacco"
+BERU.N0000,Beruwala Resorts,LK₨2.60,0,85.70%,LK₨1.8b,n/a,PE22.1x,n/a,0%,Consumer Services
+APLA.N0000,ACL Plastics,LK₨425.50,0.008,7.00%,LK₨1.8b,n/a,PE4.2x,n/a,3.50%,Materials
+BBH.N0000,Browns Beach Hotels,LK₨13.80,-0.014,-9.80%,LK₨1.8b,n/a,PS1.4x,n/a,n/a,Consumer Services
+KAHA.N0000,Kahawatte Plantations,LK₨17.70,0.023,-21.70%,LK₨1.8b,n/a,PB1.7x,n/a,0%,"Food, Beverage & Tobacco"
+BFN.N0000,Orient Finance,LK₨8.30,-0.024,10.70%,LK₨1.8b,n/a,PE5x,n/a,0%,Diversified Financials
+LCBF.N0000,Lanka Credit and Business Finance,LK₨2.20,0,-15.40%,LK₨1.7b,n/a,PE14.9x,n/a,n/a,Diversified Financials
+MADU.N0000,Madulsima Plantations,LK₨9.90,0.031,-16.10%,LK₨1.7b,n/a,PB4.5x,n/a,n/a,"Food, Beverage & Tobacco"
+AAF.N0000,Asia Asset Finance,LK₨13.20,-0.015,-2.20%,LK₨1.6b,n/a,PE4.8x,n/a,0%,Diversified Financials
+ECL.N0000,eChannelling,LK₨13.30,-0.007,-16.90%,LK₨1.6b,n/a,PE36x,n/a,0%,Healthcare
+MASK.N0000,Maskeliya Plantations,LK₨30.00,0,-24.60%,LK₨1.6b,n/a,PE3.5x,n/a,n/a,"Food, Beverage & Tobacco"
+LALU.N0000,Lanka Aluminium Industries,LK₨23.20,-0.017,31.10%,LK₨1.6b,n/a,PE7.4x,n/a,0%,Materials
+LVEN.N0000,Lanka Ventures,LK₨27.00,-0.036,-33.20%,LK₨1.6b,n/a,PE9.5x,n/a,0%,Diversified Financials
+AFSL.N0000,Abans Finance,LK₨20.70,-0.005,-17.90%,LK₨1.5b,n/a,PE14.6x,n/a,0%,Diversified Financials
+HAPU.N0000,Hapugastenne Plantations,LK₨32.40,0.042,-31.50%,LK₨1.5b,n/a,PE17.7x,n/a,n/a,"Food, Beverage & Tobacco"
+RPBH.N0000,Royal Palms Beach Hotels,LK₨29.80,0.035,1.40%,LK₨1.5b,LK₨45.00,PE8.8x,S26.4%,0%,Consumer Services
+EAST.N0000,East West Properties,LK₨10.60,0.01,20.50%,LK₨1.5b,n/a,PE18.2x,n/a,n/a,Real Estate Management and Development
+MARA.N0000,Marawila Resorts,LK₨4.10,-0.024,64.00%,LK₨1.4b,n/a,PE16.7x,n/a,n/a,Consumer Services
+UDPL.N0000,Udapussellawa Plantations,LK₨73.20,-0.054,-0.249,LK₨1.4b,n/a,PE1.8x,n/a,n/a,"Food, Beverage & Tobacco"
+COMD.N0000,Commercial Development,LK₨115.50,-0.006,-0.004,LK₨1.4b,n/a,PE4.6x,n/a,6.10%,Real Estate Management and Development
+COLO.N0000,C M Holdings,LK₨90.00,-0.023,0.121,LK₨1.4b,n/a,PE5.6x,n/a,5.60%,Retail
+AINS.N0000,Arpico Insurance,LK₨20.20,-0.082,-0.069,LK₨1.3b,n/a,PB0.9x,n/a,0%,Insurance
+SMOT.N0000,Sathosa Motors,LK₨220.25,-0.111,0.284,LK₨1.3b,n/a,PE12.2x,n/a,0%,Retail
+TANG.N0000,Tangerine Beach Hotels,LK₨63.90,-0.002,0.069,LK₨1.3b,n/a,PE16.4x,n/a,0%,Consumer Services
+CHMX.N0000,Chemanex,LK₨80.30,-0.055,-0.116,LK₨1.3b,n/a,PE11.3x,n/a,3.10%,Materials
+TSML.N0000,Tea Smallholder Factories,LK₨41.70,0.022,-0.144,LK₨1.3b,n/a,PE200.8x,n/a,0%,"Food, Beverage & Tobacco"
+HEXP.N0000,Hayleys Fibre,LK₨52.00,-0.002,-0.172,LK₨1.2b,n/a,PB0.9x,n/a,0%,Consumer Durables
+HPFL.N0000,Lotus Hydro Power,LK₨11.30,0.018,0.413,LK₨1.2b,n/a,PE18.7x,n/a,24.80%,Utilities
+AUTO.N0000,Autodrome,LK₨101.25,-0.002,-0.114,LK₨1.2b,n/a,PE57.1x,n/a,0%,Retail
+ATLL.N0000,Amãna Takaful Life,LK₨24.20,-0.062,-0.217,LK₨1.2b,n/a,PE29.3x,n/a,0%,Insurance
+PHAR.N0000,Colombo City Holdings,LK₨47.10,-0.002,-0.06,LK₨1.2b,n/a,PE2.8x,n/a,0%,Real Estate Management and Development
+ETWO.N0000,Equity Two,LK₨38.10,-0.018,-0.052,LK₨1.2b,n/a,PE5x,n/a,2.60%,Real Estate Management and Development
+ASPH.N0000,Industrial Asphalts (Ceylon),LK₨0.30,0,0,LK₨1.1b,n/a,PE60.5x,n/a,0%,Diversified Financials
+LITE.N0000,Laxapana,LK₨16.90,0.043,0.127,LK₨1.1b,n/a,PE4.8x,n/a,17.80%,Capital Goods
+ASIY.N0000,Asia Siyaka Commodities,LK₨4.30,0,-0.044,LK₨1.1b,n/a,PE5.3x,n/a,10.50%,Diversified Financials
+KPHL.N0000,Kapruka Holdings,LK₨6.80,-0.029,-0.227,LK₨1.1b,n/a,PB1.2x,n/a,n/a,Retail
+ABAN.N0000,Abans Electricals,LK₨217.25,0.035,0.354,LK₨1.1b,n/a,PE2.3x,n/a,2.30%,Consumer Durables
+PEG.N0000,Pegasus Hotels of Ceylon,LK₨26.00,-0.041,-0.103,LK₨1.1b,n/a,PS1.2x,n/a,0%,Consumer Services
+CABO.N0000,Cargo Boat Development,LK₨57.50,0,0,LK₨1.0b,n/a,PE7.5x,n/a,1.70%,Real Estate Management and Development
+UCAR.N0000,Union Chemicals Lanka,LK₨674.50,0,0.014,LK₨1.0b,n/a,PE4.4x,n/a,8.00%,Materials
+SINH.N0000,Singhe Hospitals,LK₨2.30,0.045,-0.08,LK₨992.0m,n/a,PB1.2x,n/a,n/a,Healthcare
+MCPL.N0000,Mahaweli Coconut Plantations,LK₨28.00,-0.031,-0.125,LK₨979.9m,n/a,PE11.3x,n/a,5.40%,"Food, Beverage & Tobacco"
+ALHP.N0000,Anilana Hotels and Properties,LK₨0.90,0,-0.182,LK₨1.2b,n/a,PS32.1x,n/a,n/a,Consumer Services
+HOPL.N0000,Horana Plantations,LK₨38.10,0.003,-0.247,LK₨952.5m,n/a,PE9.1x,n/a,4.30%,"Food, Beverage & Tobacco"
+CTBL.N0000,Ceylon Tea Brokers,LK₨5.10,-0.038,-0.15,LK₨930.2m,n/a,PE9.8x,n/a,13.30%,Retail
+REG.N0000,Regnis (Lanka),LK₨41.20,0,0,LK₨928.5m,n/a,PB0.5x,n/a,0%,Consumer Durables
+CIT.N0000,Colombo Investment Trust,LK₨112.75,0,-0.107,LK₨800.1m,n/a,PE18.2x,n/a,0%,Diversified Financials
+HSIG.N0000,Hotel Sigiriya,LK₨45.30,-0.036,0.108,LK₨796.2m,n/a,PE7.9x,n/a,0%,Consumer Services
+EMER.N0000,Eastern Merchants,LK₨7.00,-0.014,-0.222,LK₨782.4m,n/a,PE197.3x,n/a,2.10%,Retail
+WAPO.N0000,Galle Face Capital Partners,LK₨28.00,0.004,0.128,LK₨754.6m,n/a,PE1.8x,n/a,0%,Diversified Financials
+SINI.N0000,Singer Industries (Ceylon),LK₨37.20,0,0.028,LK₨744.0m,n/a,PS2.6x,n/a,0%,Consumer Durables
+TESS.N0000,Tess Agro,LK₨1.00,0,-0.091,LK₨717.1m,n/a,PS1722.7x,n/a,0%,Consumer Retailing
+MFL.N0000,Multi Finance,LK₨12.50,0,-0.408,LK₨795.1m,n/a,PB2.8x,n/a,0%,Diversified Financials
+BRR.N0000,Bansei Royal Resorts Hikkaduwa,LK₨12.10,0.008,0.08,LK₨650.1m,n/a,PE33.8x,n/a,1.70%,Consumer Services
+SIL.N0000,Samson International,LK₨149.00,0,-0.228,LK₨630.7m,n/a,PB1.1x,n/a,0%,Materials
+MRH.N0000,Mahaweli Reach Hotels,LK₨13.30,0,-0.022,LK₨626.0m,n/a,PB0.3x,n/a,n/a,Consumer Services
+CERA.N0000,Lanka Ceramic,LK₨98.10,-0.015,-0.066,LK₨588.6m,n/a,PE6.6x,n/a,3.80%,Capital Goods
+RFL.N0000,Ramboda Falls,LK₨28.60,0,0.04,LK₨572.0m,n/a,PE24.7x,n/a,0%,Consumer Services
+CFI.N0000,Colombo Fort Investments,LK₨64.00,-0.071,-0.179,LK₨562.4m,n/a,PE11.1x,n/a,0%,Diversified Financials
+LPRT.N0000,Lake House Printers and Publishers,LK₨189.00,0,-0.018,LK₨555.1m,n/a,PE3.5x,n/a,2.60%,Commercial Services
+MSL.N0000,Mercantile Shipping,LK₨194.50,-0.029,-0.028,LK₨553.4m,n/a,PS30x,n/a,n/a,Real Estate Management and Development
+SLND.N0000,Serendib Land,"LK₨1,334.75",0,0.027,LK₨532.4m,n/a,PE26.6x,n/a,1.90%,Real Estate Management and Development
+ACME.N0000,ACME Printing and Packaging,LK₨5.30,0,-0.221,LK₨503.5m,n/a,PB2x,n/a,n/a,Materials
+ACAP.N0000,Asia Capital,LK₨3.50,-0.054,-0.125,LK₨459.7m,n/a,PE-1.9x,n/a,0%,Consumer Services
+HVA.N0000,HVA Foods,LK₨3.60,0,-0.234,LK₨418.5m,n/a,PE-1.3x,n/a,0%,"Food, Beverage & Tobacco"
+MHDL.N0000,Millennium Housing Developers,LK₨2.90,0,-0.147,LK₨390.6m,n/a,PS3.4x,n/a,0%,Real Estate Management and Development
+EXT.N0000,Exterminators,LK₨7.00,0.029,-16.70%,LK₨370.0m,n/a,PE37.8x,n/a,11.40%,Commercial Services
+KDL.N0000,Kelsey Developments,LK₨21.50,0,2.40%,LK₨374.7m,n/a,PE8.5x,n/a,0%,Consumer Durables
+SIGV.N0000,Sigiriya Village Hotels,LK₨38.10,-0.035,-36.50%,LK₨342.9m,n/a,PS1.1x,n/a,0%,Consumer Services
+MULL.N0000,Muller & Phipps (Ceylon),LK₨1.10,0,-8.30%,LK₨311.3m,n/a,PE4.1x,n/a,0%,Healthcare
+EML.N0000,EML Consultants,LK₨3.20,-0.059,-27.30%,LK₨290.9m,n/a,n/a,n/a,n/a,Commercial Services
+CWL.N0000,Chrissworld,LK₨9.50,-0.031,-6.90%,LK₨285.0m,n/a,PE12.5x,n/a,0%,Transportation
+MDL.N0000,Myland Developments,LK₨7.70,-0.083,-20.60%,LK₨279.1m,n/a,PS4x,n/a,3.20%,Real Estate Management and Development
+GEST.N0000,Gestetner of Ceylon,LK₨104.75,0,17.20%,LK₨278.4m,n/a,PE3.1x,n/a,5.70%,Commercial Services
+BLUE.N0000,Blue Diamonds Jewellery Worldwide,LK₨0.30,-0.25,-25.00%,LK₨277.7m,n/a,PS12.9x,n/a,n/a,Consumer Durables
+RGEM.N0000,Radiant Gems International,LK₨106.00,0,-14.30%,LK₨254.4m,n/a,PE14.3x,n/a,n/a,Consumer Durables
+AFS.N0000,Alpha Fire Services,LK₨6.70,-0.015,-16.00%,LK₨254.3m,n/a,PE9.3x,n/a,3.60%,Capital Goods
+ALUF.N0000,Unisyst Engineering,LK₨5.80,0,0%,LK₨255.9m,n/a,PE-1.2x,n/a,n/a,Capital Goods
+MEL.N0000,Mackwoods Energy,LK₨2.00,0,-13.00%,LK₨200.0m,n/a,PE206.6x,n/a,0%,Capital Goods
+SING.N0000,Standard Capital,LK₨35.50,-0.106,-7.30%,LK₨196.7m,n/a,PE7.2x,n/a,n/a,Real Estate Management and Development
+IDL.N0000,Serendib Engineering Group,LK₨3.80,0,-46.50%,LK₨123.1m,n/a,PS1.5x,n/a,n/a,Capital Goods
+YORK.N0000,York Arcade Holdings,LK₨131.75,0,-15.70%,LK₨98.8m,n/a,PE6.2x,n/a,0%,Real Estate Management and Development
+OFEQ.N0000,Office Equipment,LK₨97.00,0,n/a,LK₨80.9m,n/a,PS1.3x,n/a,10.30%,Capital Goods
+CPRT.N0000,Ceylon Printers,LK₨114.50,0,n/a,LK₨68.7m,n/a,PS7.6x,n/a,0%,Commercial Services
+PARA.N0000,Paragon Ceylon,LK₨51.00,0,n/a,LK₨51.0m,n/a,PE90.8x,n/a,0%,Commercial Services

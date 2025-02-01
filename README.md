@@ -2,6 +2,8 @@
 
 This repository contains an algorithmic trading strategy for the Colombo Stock Exchange (CSE) using unsupervised learning. 📊
 
+![screenshot](screenshot.png)
+
 **Performance:** Our trading strategy outperformed an equal-weight ETF by 69.47% over a 5-year period.
 
 **Methodology:** We selected the largest stocks by market capitalization in the CSE and applied K-Means clustering, optimizing a portfolio using the maximum Sharpe ratio. The aim was to potentially outperform market benchmark indices like an equal-weighted index of the top 150 CSE stocks. 📈
